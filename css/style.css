@@ -2,7 +2,7 @@
     --primaryText: #fff;
     --secondaryText: #E28710;
     --primary: rgba(239, 148, 11, 0.867);
-    --secondary: rgba(201, 0, 0, 0.895); 
+    --secondary: rgba(225, 225, 225, 0.20); 
     --buttonHover: rgba(233, 125, 18, 0.4);
     --smallButtonHover: rgba(225, 225, 225, 0.20);
 }
